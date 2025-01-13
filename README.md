@@ -1,1 +1,1 @@
-# bestcommercebot.com
+# myecombot.com
